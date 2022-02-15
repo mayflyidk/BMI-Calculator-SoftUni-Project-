@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WbRPMEAUaJ7RPyeoxIbm/D09LGkc2ZMzo5ASaZfY+t+lgClBBiSwyUSrcfO8p29JT5t+MRjgc2mrsmEx25WU6A==",
+  "success": true,
+  "projectFilePath": "E:\\BMI Calculator(SoftUni Project)\\BMI Calculator(SoftUni Project)\\BMI Calculator(SoftUni Project).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.14\\microsoft.netcore.app.runtime.win-x86.5.0.14.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.14.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.14\\microsoft.aspnetcore.app.runtime.win-x86.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
